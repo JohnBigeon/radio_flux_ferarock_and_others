@@ -1,0 +1,254 @@
+[
+	{
+		"group" : "Radio FIP",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip.png",
+				"name" : "FIP",
+				"url" : "https://stream.radiofrance.fr/fip/fip_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_electro.jpg",
+				"name" : "FIP Electro",
+				"url" : "https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_groove.jpg",
+				"name" : "FIP Groove",
+				"url" : "https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_jazz.jpg",
+				"name" : "FIP Jazz",
+				"url" : "https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_monde.jpg",
+				"name" : "FIP Monde",
+				"url" : "https://stream.radiofrance.fr/fipworld/fipworld_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_nouveautes.jpg",
+				"name" : "FIP Nouveautés",
+				"url" : "https://stream.radiofrance.fr/fipnouveautes/fipnouveautes_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_pop.jpg",
+				"name" : "FIP Pop",
+				"url" : "https://stream.radiofrance.fr/fippop/fippop_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_reggae.jpg",
+				"name" : "FIP Reggae",
+				"url" : "http://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_rock.jpg",
+				"name" : "FIP Rock",
+				"url" : "https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fip_metal.jpg",
+				"name" : "FIP Metal",
+				"url" : ""
+			}
+		]
+	},
+	{
+		"group" : "Radios Fera Rock",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/666.jpg",
+				"name" : "666 (Herouville St Clair [14] @ 99.1 MHz)",
+				"url" : "http://radio666.net:8000/666.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/alpha.png",
+				"name" : "Radio Alpha (Le Mans [72] @ 107.3 MHz)",
+				"url" : "http://rcf.streamakaci.com/rcf35.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/activ.png",
+				"name" : "Radio Activ' (Saint Brieuc [22] @ 101.9 MHz)",
+				"url" : " http://151.80.115.65:8000/activ.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/ballade.jpg",
+				"name" : "Radio Ballade (Esperaza [11] @ 101.9 MHz)",
+				"url" : "http://149.202.186.120/Ballade"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/beaub_fm.png",
+				"name" : "Beaub'FM (Limoges [87] @ 89 MHz)",
+				"url" : "http://statslive.infomaniak.ch/playlist/beaubfm2/beaubfm2-96.mp3/playlist.m3u"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/beton.jpg",
+				"name" : "Béton (Tours [37] @ 93.6 MHz)",
+				"url" : "http://stream.radiobeton.com:8000/stream.mp3.m3u"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/canal_b.png",
+				"name" : "CanalB (Rennes [35] @ 94 MHz",
+				"url" : "http://stream.levillage.org/canalb"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/cibl.jpg",
+				"name" : "CIBL (Montréal @ 101.5 MHz)",
+				"url" : "http://stream02.ustream.ca/cibl128.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/cism.png",
+				"name" : "CISM (Montréal @ 89.3 MHz)",
+				"url" : "   http://stream03.ustream.ca/cism128.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/coteaux.jpg",
+				"name" : "Radio Coteaux (Tarbes [32] @97.5 MHz)",
+				"url" : "https://stric6.streamakaci.com/radiocoteaux.mp3"
+			},
+			{
+                "image": "/home/verbalrazors/.config/radiotray-ng/Image/crock.png",
+				"name" : "C'Rock Radio (Vienne [38] @ 89.5 MHz)",
+				"url" : "http://stric6.streamakaci.com/crock.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/dio.jpg",
+				"name" : "Radio Dio (Saint Etienne [70] @ 89.5 MHz)",
+				"url" : "http://live.francra.org:8000/RadioDio"
+			},
+			{
+                "image" : "/home/verbalrazors/.config/radiotray-ng/Image/distorsion.jpg", 
+				"name" : "Distorsion (Auch [32] @ 96 Mhz)",
+				"url" : ""
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/ekodesgarrigues.jpg",
+				"name" : "L'Eko des Garrigues (Montpellier [34] @ 88.5 MHz)",
+				"url" : "http://91.121.159.124:8000/eko-des-garrigues-128k.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/equinoxe.png",
+				"name" : "Equinoxe (Namur [BE] @ 106 MHz)",
+				"url" : "http://live.equinoxenamur.be:8000/Equinoxe.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/fmr.png",
+				"name" : "FMR (Toulouse [31] @ 89.1 MHz)",
+				"url" : "http://giss.tv:8000/radio-fmr.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/frequence_mutinge.jpg",
+				"name" : "Fréquence Mutine (Brest [29] @ 103.8 MHz)",
+				"url" : "https://radios.infini.fr:8443/mutine"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/jetfm.jpg",
+				"name" : "Jet FM (Nantes [44] @ 91.2 MHz)",
+				"url" : "http://80.82.229.202/jetfm.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/ouest_track.jpg",
+				"name" : "Ouest Track (Le Havre [76] @ DAB+)",
+				"url" : "https://stream.ouest-track.com:9030/dab"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/mega.png",
+				"name" : "Radio Mega (Valence [26] @ 99.2 MhZ)",
+				"url" : " http://live.francra.org:8000/Radio-Mega"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/panik.gif",
+				"name" : "Radio Panik (Bruxelles [BE] @ 105.4 MHz)",
+				"url" : "http://streaming.domainepublic.net:8000/radiopanik.ogg.m3u"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/pfm.jpg",
+				"name" : "Radio PFM (Arras [62] @ 99.9 MHz)",
+				"url" : "http://178.33.237.20:8000/stream.mp3.m3u"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/primitive.jpg",
+				"name" : "Radio Primitive (Reims [51] @ 92.4 MHz)",
+				"url" : "http://radioprimitive.fr/live.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/pulse.jpg",
+				"name" : "Radio Pulse (Alençon [61] @ 90.0 MHz)",
+				"url" : "http://radiopulse.fr:8080/pulse.m3u"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/raje.jpg",
+				"name" : "RAJE (Avigon [84] @ 90.3 MHz)",
+				"url" : "https://rajeavignon.ice.infomaniak.ch/rajeavignon-128.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/rcv.jpg",
+				"name" : "RCV (Lille [59] @ 99 MHz)",
+				"url" : "http://listen.radioking.com/radio/3086/stream/9476"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/rpg.jpg",
+				"name" : "RPG (Guéret [23] @ 96.5 MHz)",
+				"url" : "http://radiopaysdegueret.ice.infomaniak.ch/radiopaysdegueret.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/rqc.jpg",
+				"name" : "RQC (Mouscron (BE) @ 95 MHz)",
+				"url" : "http://5.39.80.55:8000/live"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/solfm.jpg",
+				"name" : "SOL FM (Lyon [69] @ 100.7 MHz)",
+				"url" : "hhttp://cdnradio.streamakaci.com/solfm64.mp3"
+			}
+		]
+	},
+	{
+		"group" : "Divers",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/canalb.jpg",
+				"name" : "CanalB (Rennes [35] @ 94.0 MHz)",
+				"url" : "http://stream.levillage.org/canalb"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/meuh.png",
+				"name" : "Radio Meuh (La Clusaz [74] @ web)",
+				"url" : "http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/prun.jpg",
+				"name" : "Prun' (Nantes [44] @ 92 MHz)",
+				"url" : "http://80.82.229.202:8000/streamprun"
+			},
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/run.png",
+				"name" : "La Radio Universitaire Namuroise (Namur [BE] @ 88.1 MHz)",
+				"url" : "http://stream.run.be:8000/run128.mp3"
+			}
+		]
+	},
+	{
+		"group" : "Synthwave",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"image" : "/home/verbalrazors/.config/radiotray-ng/Image/syntwave.jpg",
+				"name" : "Synth wave radio.eu",
+				"url" : "https://icecast.synthwaveradio.eu:8000/live"
+			}
+		]
+	},
+	{
+		"group" : "root",
+		"stations" : []
+	}
+]
